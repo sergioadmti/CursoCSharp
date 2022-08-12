@@ -14,6 +14,7 @@ namespace Curso_Gamma._01_Fundamentos {
 
             //O recurso de interpolação serve para substituir a concatenação.
             Console.WriteLine("O {0} {1}, modelo {2}, está saindo a R$ {3}.", tipoDoProduto, fabricante, modelo, valorDoProduto);
+            Console.WriteLine($"O {tipoDoProduto} {fabricante}, modelo {modelo}, está saindo a R$ {valorDoProduto}."  );
 
         }
     }

@@ -11,6 +11,10 @@ namespace Curso_Gamma {
                 {"Comentarios - Fundamentos", Comentarios.Executar},
                 {"Variaves e Constantes - Fundamentos", VariaveisEconstantes.Executar},
                 {"Interpolacao - Fundamentos", Interpolacao.Executar},
+                {"Notacao Ponto - Fundamentos", NotacaoPonto.Executar},
+                {"Lendo Dados - Fundamentos", LendoDados.Executar},
+                {"Formatando Números - Fundamentos", FormatandoNumeros.Executar},
+                {"Conversões - Fundamentos", Conversoes.Executar},
             });
 
             central.SelecionarEExecutar();
