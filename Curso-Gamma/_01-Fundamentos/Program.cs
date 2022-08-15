@@ -15,6 +15,7 @@ namespace Curso_Gamma {
                 {"Lendo Dados - Fundamentos", LendoDados.Executar},
                 {"Formatando Números - Fundamentos", FormatandoNumeros.Executar},
                 {"Conversões - Fundamentos", Conversoes.Executar},
+                {"Conversão Segura - Fundamentos", ConversaoSegura.Executar},
             });
 
             central.SelecionarEExecutar();

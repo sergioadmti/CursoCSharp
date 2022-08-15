@@ -14,7 +14,7 @@ namespace Curso_Gamma._01_Fundamentos {
             Console.WriteLine("A conversão implícita ficou assim: " + numeroQuebrado.ToString("F2"));
 
             //Conversão explícita
-            double numeroDePontoFlutuante = 9.6;
+            double numeroDePontoFlutuante = 9.9;
             int numeroTruncado = (int) numeroDePontoFlutuante;
             Console.WriteLine("O número com uma conversão explícita (casting) ficou assim: " + numeroTruncado);
 
