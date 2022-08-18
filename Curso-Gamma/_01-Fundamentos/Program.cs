@@ -16,6 +16,8 @@ namespace Curso_Gamma {
                 {"Formatando Números - Fundamentos", FormatandoNumeros.Executar},
                 {"Conversões - Fundamentos", Conversoes.Executar},
                 {"Conversão Segura - Fundamentos", ConversaoSegura.Executar},
+                {"Exemplos Aritmeticos - Fundamentos", ExemplosAritmeticos.Executar},
+                
             });
 
             central.SelecionarEExecutar();
